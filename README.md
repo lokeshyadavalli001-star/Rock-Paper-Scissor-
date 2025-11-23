@@ -34,7 +34,7 @@ You need **Python 3.x** installed on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/lokeshyadavalli001-star/Rock-Paper-Scissor-
     cd rock-paper-scissors-cli-game
     ```
 
