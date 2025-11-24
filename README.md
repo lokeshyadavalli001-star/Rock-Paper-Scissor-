@@ -7,7 +7,7 @@ The primary goal of this project is to demonstrate foundational programming conc
 * **Control Flow** (e.g., `if-else` statements) for game rule implementation.
 * **Input/Output Handling** and **Validation**.
 
-## ✨ Features
+##  Features
 
 This implementation is structured around three core functional modules:
 
@@ -16,7 +16,7 @@ This implementation is structured around three core functional modules:
 3.  **Score Tracking:** Manages and persists the player's and computer's scores for the duration of the current game session.
 4.  **Robust Input Validation:** Ensures the system only accepts 'r', 'p', or 's' inputs, preventing crashes from invalid user data.
 
-## 💻 Technologies and Tools Used
+##  Technologies and Tools Used
 
 | Component | Tool / Language | Rationale |
 | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ This implementation is structured around three core functional modules:
 | **Concepts Applied** | Functions, `if/elif/else`, Dictionaries (for score), `random` library. | Directly applying syllabus concepts. |
 | **Version Control** | Git / GitHub | Used for tracking development history and final submission. |
 
-## 🚀 Steps to Install & Run the Project
+##  Steps to Install & Run the Project
 
 ### Prerequisites
 
